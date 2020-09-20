@@ -10,7 +10,7 @@ EXAMPLE USAGE
 
 # REQUIRMENTS BEFORE PROCESSING THE DATA
 1. Snowflake account or may be 30 day trial account https://signup.snowflake.com/
-2. Have .pythonconfig file in the current directory as below for snowflake credentials<br/>
+2. Have .pythonconfig file in the current directory in the below format for snowflake credentials<br/>
    ETL_LOAD_CREDENTIALS]<br/>
    LOADUSERNAME=LOAD_USER_NAME<br/>
    LOADPW=LOAD_PW
