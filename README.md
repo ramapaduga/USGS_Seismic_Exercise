@@ -4,6 +4,7 @@
 3. Push that json into snowflake database using snowflake python connector
 4. Folder contains the Python script to pull data from USGS API, DDL's, Analysis queries, analysis output and images
 5. Utilized the snowflake sql functions to flatten json data and also to process data
+6. For charts used the in built snowflake app feature
 
 EXAMPLE USAGE
 ## USGS Seismic data to fetch full 2017 data
