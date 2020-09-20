@@ -1,3 +1,5 @@
+### NOTE ALL QUERIES ARE ONLY FOR 2017
+
 # usgs-seismic-data
 1. Python Job to download usgs seismic data from USGS API
 2. This is a working solution to fetch data from USGS API and dump that data into a json file
