@@ -10,7 +10,7 @@
 
 EXAMPLE USAGE
 ## USGS Seismic data to fetch full 2017 data
-``` python EarthquakeCatalog_V2.py startdate="2017-01-01" enddate="2018-01-01" outputfilename='USGS.json'```
+``` python EarthquakeCatalog.py startdate="2017-01-01" enddate="2018-01-01" outputfilename='USGS.json'```
 
 # Requirements before processing the data
 1. Snowflake account or may be 30 day trial account https://signup.snowflake.com/
